@@ -1,0 +1,14 @@
+{
+  "name": "alertifyjs",
+  "main": "alertify.js",
+  "license": "MIT",
+  "ignore": [
+    "package.json"
+  ],
+  "keywords": [
+    "alert",
+    "toast",
+    "popup",
+    "notification"
+  ]
+}
